@@ -4,6 +4,8 @@
     
     The size of the square must be the first argument 
     of the program.
+
+    change in size = parseInt(process.argv[2], 16)
 */
 
 
