@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+""" FizzBuzz
+    Change of logic if (i % 3) == 0 and (i % 5) == 0:
+"""
 import sys
 
 
