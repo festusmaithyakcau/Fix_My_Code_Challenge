@@ -1,1 +1,1 @@
-Fix_My_Code_Challenge
+This repo features a series of tasks for alx school code correction task.
