@@ -5,8 +5,9 @@ challenging debugging programs. The challenges spanned a variety of
 programming languages from C to Python to Javascript and more. The specific list of projects
 contained is as follows:
 
-* [./0x00-challenge)](./0x00-challenge)
-* [./0x01-challenge)](./0x01-challenge)
+* [./0x00-challenge](./0x00-challenge)
+* ____
+* [./0x01-challenge](./0x01-challenge)
 
 ## Author
 
