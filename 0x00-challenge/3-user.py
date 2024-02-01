@@ -1,4 +1,5 @@
-er Model
+"""
+User Model
 """
 import hashlib
 import uuid
