@@ -11,7 +11,7 @@ contained is as follows:
 
 ## Author : Nason Mamu:
 
-* **Festus Maithya** [nasonmamu](https://github.com/nasonmamu)
+* **Nason Mamu** [nasonmamu](https://github.com/nasonmamu)
 
 ## Acknowledgements :pray:
 
